@@ -1,0 +1,43 @@
+#to install this use command
+#pip install -r requirements.txt
+#python -m pip install -r requirements.txt
+
+#to upgrade pip
+#python.exe -m pip install --upgrade pip
+
+
+# to create a virtual environment ue command
+# python -m venv venv
+# and to activate the venv
+# .\venv\Scripts\Activate.ps1
+
+# model = ChatGoogleGenerativeAI(
+#     model="gemini-2.5-flash",
+#     api_key=os.getenv("GOOGLE_API_KEY"),
+# )
+
+
+
+
+#Langchain core
+langchain
+langchain-core
+
+#Google Gemini
+langchain-google-genai
+google-generativeai
+
+#Hugging Face
+langchain-huggingface
+transformers
+huggingface-hub
+
+#ENV management
+python-dotenv
+
+#Machine Learning Utilities
+numpy
+scikit-learn
+
+#StreamLit
+streamlit

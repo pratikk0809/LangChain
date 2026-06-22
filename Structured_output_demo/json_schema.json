@@ -1,0 +1,10 @@
+{
+    "tittle": "student",
+    "description": "schema about sentiments",
+    "type": "object",
+    "properties": {
+        "name": "string",
+        "age": "integer"
+    },
+    "required": ["name"]
+}
